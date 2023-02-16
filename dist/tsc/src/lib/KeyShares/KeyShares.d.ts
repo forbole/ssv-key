@@ -1,7 +1,7 @@
 import { KeySharesDataV2 } from './KeySharesData/KeySharesDataV2';
 import { KeySharesPayloadV2 } from './KeySharesData/KeySharesPayloadV2';
-export declare type KeySharesData = KeySharesDataV2;
-export declare type KeySharesPayload = KeySharesPayloadV2;
+export type KeySharesData = KeySharesDataV2;
+export type KeySharesPayload = KeySharesPayloadV2;
 /**
  * Key shares file data interface.
  */
