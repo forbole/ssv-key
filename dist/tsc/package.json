@@ -91,7 +91,6 @@
         "node-jsencrypt": "^1.0.0",
         "prompts": "https://github.com/meshin-blox/prompts.git",
         "scrypt-js": "^3.0.1",
-        "stream": "^0.0.2",
         "underscore": "^1.13.4",
         "web3": "1.7.3",
         "yargs": "^17.5.1"
